@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cpp-introduction-to-programming.vcxproj" Id="7b9368d4-9c5c-444e-8b70-002ed877138d" />
+</Solution>
