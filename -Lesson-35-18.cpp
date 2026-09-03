@@ -6,12 +6,12 @@ using namespace std;
 double CircleArea(double r) 
 {
 	const float pi = 3.14;
-	return pi * r * r;
+	return pi * pow(r,2);
 }
 double CircleArea2(double d)
 {
 	const float pi = 3.14;
-	return (pi * d * d) / 4;
+	return (pi * pow(d,2) )/ 4;
 }
 int main()
 {
