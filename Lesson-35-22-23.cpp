@@ -7,7 +7,7 @@ double CircleArea(double a, double b)
 {
 
 	float const pi = 3.14;
-	return pi * (b * b / 4) * ((2 * a - b) / (2 * a + b));
+	return pi * (pow(b, 2) / 4) * ((2 * a - b) / (2 * a + b));
 
 }
 
